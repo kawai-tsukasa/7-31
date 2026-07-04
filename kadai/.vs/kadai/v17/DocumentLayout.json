@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u6CB3\u5408\u675F\u5016C\u002B\u002B\\7-31\\kadai\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFCD226-DE45-4961-B3F4-1BDCFED2409C}|kadai\\kadai.vcxproj|D:\\\u6CB3\u5408\u675F\u5016C\u002B\u002B\\7-31\\kadai\\kadai\\kadai.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5EFCD226-DE45-4961-B3F4-1BDCFED2409C}|kadai\\kadai.vcxproj|solutionrelative:kadai\\kadai.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kadai.cpp",
+              "DocumentMoniker": "D:\\\u6CB3\u5408\u675F\u5016C\u002B\u002B\\7-31\\kadai\\kadai\\kadai.cpp",
+              "RelativeDocumentMoniker": "kadai\\kadai.cpp",
+              "ToolTip": "D:\\\u6CB3\u5408\u675F\u5016C\u002B\u002B\\7-31\\kadai\\kadai\\kadai.cpp",
+              "RelativeToolTip": "kadai\\kadai.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-04T04:31:18.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
