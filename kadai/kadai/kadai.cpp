@@ -38,16 +38,16 @@ int main()
 	{
 		std::cout << "-----------------------------" << std::endl;
 
-		std::cout << "名前:" << PP[0].name_ << "HP:" << PP[0].HP_ << "ATK:" << PP[0].ATK_<<endl;
-		std::cout << "名前:" << PP[1].name_ << "HP:" << PP[1].HP_ << "ATK:" << PP[1].ATK_<<endl;
-		std::cout << "名前:" << PP[2].name_ << "HP:" << PP[2].HP_ << "ATK:" << PP[2].ATK_<<endl;
+		std::cout << "名前:" << PP[0].name_ << "戦力:" << PP[0].HP_ << "ATK:" << PP[0].ATK_<<endl;
+		std::cout << "名前:" << PP[1].name_ << "戦力:" << PP[1].HP_ << "ATK:" << PP[1].ATK_<<endl;
+		std::cout << "名前:" << PP[2].name_ << "戦力:" << PP[2].HP_ << "ATK:" << PP[2].ATK_<<endl;
 
 
 		std::cout << "-----------------------------" << std::endl;
 
-		std::cout << "名前:" << EP[0].name_ << "HP:" << EP[0].HP_ << "ATK:" << EP[0].ATK_ << endl;
-		std::cout << "名前:" << EP[1].name_ << "HP:" << EP[1].HP_ << "ATK:" << EP[1].ATK_ << endl;
-		std::cout << "名前:" << EP[2].name_ << "HP:" << EP[2].HP_ << "ATK:" << EP[2].ATK_ << endl;
+		std::cout << "名前:" << EP[0].name_ << "戦力:" << EP[0].HP_ << "ATK:" << EP[0].ATK_ << endl;
+		std::cout << "名前:" << EP[1].name_ << "戦力:" << EP[1].HP_ << "ATK:" << EP[1].ATK_ << endl;
+		std::cout << "名前:" << EP[2].name_ << "戦力:" << EP[2].HP_ << "ATK:" << EP[2].ATK_ << endl;
 
 
 		std::cout << "-----------------------------" << std::endl;
