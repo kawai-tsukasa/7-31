@@ -8,26 +8,31 @@ public:
 
 void Process::battle()
 {
+	PlayerHP HP(new int);
+
+	
+
+
 	int command;
 	bool Socs = false;
 	std::cin >> command;
-	if (command == 1)
+	switch (command)
 	{
+	case 1:
 		std::cout << "剣士が攻撃した！" << std::endl;
-	}
-	else if (command == 2)
-	{
+		break;
+	case 2:
 		std::cout << "魔法使いが攻撃した！" << std::endl;
+		break;
+	case 3:
+		std::cout << "召喚士が攻撃した！" << std::endl;
+		break;
+	default:
+		std::cout << "無効なコマンドです" << std::endl;
+		std::cout << "もう一度入力してください" << std::endl;
+		break;
 	}
-	else if (command == 3)
-	{
-		std::cout << "召喚士が攻撃した！" << std::endl;;
-	}
-	else
-	{
-		std::cout << "無効なコマンドです。" << std::endl;
-
-	}
+	
 	std::cout << "-----------------------------" << std::endl;
 
 	std::cout << "敵の行動" << std::endl;
@@ -52,6 +57,7 @@ void Process::battle()
 	}
 
 	std::cout << "-----------------------------" << std::endl;
+
 	if (command == 1 && enemyCommand == 1)
 	{
 		std::cout << "ドロー" << std::endl;
@@ -59,6 +65,7 @@ void Process::battle()
 	else if (command == 2 && enemyCommand == 2)
 	{
 		std::cout << "ドロー" << std::endl;
+		
 	}
 	else if (command == 3 && enemyCommand == 3)
 	{

@@ -26,9 +26,6 @@
     <ClInclude Include="EnemyStetas.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="Process.h">
-      <Filter>ヘッダー ファイル</Filter>
-    </ClInclude>
     <ClInclude Include="HP.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>

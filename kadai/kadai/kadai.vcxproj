@@ -129,7 +129,6 @@
     <ClInclude Include="EnemyHP.h" />
     <ClInclude Include="EnemyStetas.h" />
     <ClInclude Include="HP.h" />
-    <ClInclude Include="Process.h" />
     <ClInclude Include="Stetas.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
