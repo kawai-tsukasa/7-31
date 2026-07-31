@@ -3,21 +3,12 @@
 class EnemyHP
 {
 public:
-	EnemyHP(int* HP)
-	{
-		HP_ = HP;
-	}
+	EnemyHP(int* HP);
+	
+	~EnemyHP();
 
-	~EnemyHP()
-	{
-		delete HP_;
-	}
-
-	void set(int value)
-	{
-		*HP_ = value;
-	}
-
+	void set(int value)const;
+	
 	int get()
 	{
 		return *HP_;

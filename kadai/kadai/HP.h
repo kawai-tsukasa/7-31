@@ -3,20 +3,11 @@
 class PlayerHP 
 {
 public:
-    PlayerHP(int* HP) 
-    {
-        HP_ = HP;
-    }
+	PlayerHP(int* HP);
 
-	~PlayerHP()
-	{
-		delete HP_;
-	}
+	~PlayerHP();
 
-	void set(int value) 
-	{
-		*HP_ = value;
-	}
+	void set(int value) const;
 
 	int get() 
 	{

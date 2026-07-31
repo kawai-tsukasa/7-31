@@ -113,7 +113,7 @@ int main()
 		
 		std::cout << "敵の行動" << std::endl;
 
-		int enemyCommand = rand() % 1 + 1;
+		int enemyCommand = rand() % 6 + 1;
 
 		if (enemyCommand == 1)
 		{
@@ -146,14 +146,109 @@ int main()
 
 		std::cout << "-----------------------------" << std::endl;
 		// ここから各パターンの処理を書くだけ
-		if (command == enemyCommand) 
+		if (command == 1 && enemyCommand == 1) 
 		{
 			std::cout << "ドロー" << endl;
-			playerHP.set(playerHP.get() - EP[1].ATK_);
 		}
-		if (command == 1) 
+		else if (command == 1 && enemyCommand == 2)
 		{
-
+			std::cout << "ドロー" << endl;
+		}
+		else if (command == 1 && enemyCommand == 3)
+		{
+			std::cout << "攻撃成功！" << endl;
+			enemyHP.set(enemyHP.get() - PP[0].ATK_);
+		}
+		else if (command == 1 && enemyCommand == 4)
+		{
+			std::cout << "カウンター！" << endl;
+			playerHP.set(playerHP.get() - PP[0].ATK_ * 2);
+		}
+		else if (command == 1 && enemyCommand == 5)
+		{
+			std::cout << "攻撃成功！" << endl;
+			enemyHP.set(enemyHP.get() - PP[0].ATK_);
+		}
+		else if (command == 1 && enemyCommand == 6)
+		{
+			std::cout << "クリティカル！" << endl;
+			enemyHP.set(enemyHP.get() - PP[0].ATK_ * 2);
+		}
+		else if (command == 2 && enemyCommand == 1)
+		{
+			std::cout << "ドロー！" << endl;
+		}
+		else if (command == 2 && enemyCommand == 2)
+		{
+			std::cout << "ドロ－！" << endl;
+		}
+		else if (command == 2 && enemyCommand == 3)
+		{
+			std::cout << "クリティカル！" << endl;
+			playerHP.set(playerHP.get() - EP[1].ATK_ * 2);
+		}
+		else if (command == 2 && enemyCommand == 4)
+		{
+			std::cout << "防御成功！" << endl;
+		}
+		else if (command == 2 && enemyCommand == 5)
+		{
+			std::cout << "カウンター！" << endl;
+			enemyHP.set(enemyHP.get() - EP[2].ATK_ * 2);
+		}
+		else if (command == 2 && enemyCommand == 6)
+		{
+			std::cout << "防御成功！！" << endl;
+		}
+		else if (command == 3 && enemyCommand == 1)
+		{
+			std::cout << "攻撃失敗,,," << endl;
+			playerHP.set(playerHP.get() - EP[0].ATK_);
+		}
+		else if (command == 3 && enemyCommand == 2)
+		{
+			std::cout << "クリティカル！" << endl;
+			enemyHP.set(enemyHP.get() - PP[1].ATK_ * 2);
+		}
+		else if (command == 3 && enemyCommand == 3)
+		{
+			std::cout << "ドロー" << endl;
+		}
+		else if (command == 3 && enemyCommand == 4)
+		{
+			std::cout << "ドロー" << endl;
+		}
+		else if (command == 3 && enemyCommand == 5)
+		{
+			std::cout << "攻撃成功" << endl;
+			enemyHP.set(enemyHP.get() - PP[1].ATK_);
+		}
+		else if (command == 3 && enemyCommand == 6)
+		{
+			std::cout << "カウンター！" << endl;
+			playerHP.set(playerHP.get() - PP[1].ATK_ * 2);
+		}
+		else if (command == 4 && enemyCommand == 1)
+		{
+			std::cout << "カウンター！" << endl;
+			enemyHP.set(enemyHP.get() - EP[0].ATK_ * 2);
+		}
+		else if (command == 4 && enemyCommand == 2)
+		{
+			std::cout << "防御成功！" << endl;
+		}
+		else if (command == 4 && enemyCommand == 3)
+		{
+			std::cout << "ドロー！" << endl;
+		}
+		else if (command == 4 && enemyCommand == 4)
+		{
+			std::cout << "ドロー！" << endl;
+		}
+		else if (command == 4 && enemyCommand == 5)
+		{
+			std::cout << "クリティカル！" << endl;
+			playerHP.set(playerHP.get() - EP[2].ATK_ * 2);
 		}
 		
 		
@@ -161,13 +256,13 @@ int main()
 		{
 			isGameOver = true;
 			std::cout << "-----------------------------" << std::endl;
-			std::cout << "プレイヤーの勝ち！( > v < )" << std::endl;
+			std::cout << "プレイヤーの負け...( > < )" << std::endl;
 		}
 		if (enemyHP.get() <= 0)
 		{
 			isGameOver = true;
 			std::cout << "-----------------------------" << std::endl;
-			std::cout << "プレイヤーの負け...( > < )" << std::endl;
+			std::cout << "プレイヤーの勝ち！( > v < )" << std::endl;
 		}
 
 		if (!isGameOver) 
