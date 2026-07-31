@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ktc\\Documents\\GitHub\\7-31\\kadai\\",
+  "WorkspaceRootPath": "C:\\Users\\tebas\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Unity\\7-31\\kadai\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5EFCD226-DE45-4961-B3F4-1BDCFED2409C}|kadai\\kadai.vcxproj|C:\\Users\\ktc\\Documents\\GitHub\\7-31\\kadai\\kadai\\kadai.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5EFCD226-DE45-4961-B3F4-1BDCFED2409C}|kadai\\kadai.vcxproj|C:\\Users\\tebas\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Unity\\7-31\\kadai\\kadai\\kadai.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EFCD226-DE45-4961-B3F4-1BDCFED2409C}|kadai\\kadai.vcxproj|solutionrelative:kadai\\kadai.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EFCD226-DE45-4961-B3F4-1BDCFED2409C}|kadai\\kadai.vcxproj|C:\\Users\\ktc\\Documents\\GitHub\\7-31\\kadai\\kadai\\HP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5EFCD226-DE45-4961-B3F4-1BDCFED2409C}|kadai\\kadai.vcxproj|C:\\Users\\tebas\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Unity\\7-31\\kadai\\kadai\\Stetas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5EFCD226-DE45-4961-B3F4-1BDCFED2409C}|kadai\\kadai.vcxproj|solutionrelative:kadai\\Stetas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFCD226-DE45-4961-B3F4-1BDCFED2409C}|kadai\\kadai.vcxproj|C:\\Users\\tebas\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Unity\\7-31\\kadai\\kadai\\HP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EFCD226-DE45-4961-B3F4-1BDCFED2409C}|kadai\\kadai.vcxproj|solutionrelative:kadai\\HP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EFCD226-DE45-4961-B3F4-1BDCFED2409C}|kadai\\kadai.vcxproj|C:\\Users\\ktc\\Documents\\GitHub\\7-31\\kadai\\kadai\\EnemyHP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5EFCD226-DE45-4961-B3F4-1BDCFED2409C}|kadai\\kadai.vcxproj|C:\\Users\\tebas\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Unity\\7-31\\kadai\\kadai\\EnemyHP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EFCD226-DE45-4961-B3F4-1BDCFED2409C}|kadai\\kadai.vcxproj|solutionrelative:kadai\\EnemyHP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EFCD226-DE45-4961-B3F4-1BDCFED2409C}|kadai\\kadai.vcxproj|C:\\Users\\ktc\\Documents\\GitHub\\7-31\\kadai\\kadai\\EnemyHP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5EFCD226-DE45-4961-B3F4-1BDCFED2409C}|kadai\\kadai.vcxproj|C:\\Users\\tebas\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Unity\\7-31\\kadai\\kadai\\EnemyHP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EFCD226-DE45-4961-B3F4-1BDCFED2409C}|kadai\\kadai.vcxproj|solutionrelative:kadai\\EnemyHP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EFCD226-DE45-4961-B3F4-1BDCFED2409C}|kadai\\kadai.vcxproj|C:\\Users\\ktc\\Documents\\GitHub\\7-31\\kadai\\kadai\\EnemyStetas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5EFCD226-DE45-4961-B3F4-1BDCFED2409C}|kadai\\kadai.vcxproj|C:\\Users\\tebas\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Unity\\7-31\\kadai\\kadai\\EnemyStetas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EFCD226-DE45-4961-B3F4-1BDCFED2409C}|kadai\\kadai.vcxproj|solutionrelative:kadai\\EnemyStetas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EFCD226-DE45-4961-B3F4-1BDCFED2409C}|kadai\\kadai.vcxproj|C:\\Users\\ktc\\Documents\\GitHub\\7-31\\kadai\\kadai\\HP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5EFCD226-DE45-4961-B3F4-1BDCFED2409C}|kadai\\kadai.vcxproj|C:\\Users\\tebas\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Unity\\7-31\\kadai\\kadai\\HP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EFCD226-DE45-4961-B3F4-1BDCFED2409C}|kadai\\kadai.vcxproj|solutionrelative:kadai\\HP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EFCD226-DE45-4961-B3F4-1BDCFED2409C}|kadai\\kadai.vcxproj|C:\\Users\\ktc\\Documents\\GitHub\\7-31\\kadai\\kadai\\States.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5EFCD226-DE45-4961-B3F4-1BDCFED2409C}|kadai\\kadai.vcxproj|C:\\Users\\tebas\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Unity\\7-31\\kadai\\kadai\\States.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EFCD226-DE45-4961-B3F4-1BDCFED2409C}|kadai\\kadai.vcxproj|solutionrelative:kadai\\States.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EFCD226-DE45-4961-B3F4-1BDCFED2409C}|kadai\\kadai.vcxproj|C:\\Users\\ktc\\Documents\\GitHub\\7-31\\kadai\\kadai\\Stetas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5EFCD226-DE45-4961-B3F4-1BDCFED2409C}|kadai\\kadai.vcxproj|solutionrelative:kadai\\Stetas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\__msvc_string_view.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -45,120 +45,114 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "EnemyStetas.h",
-              "DocumentMoniker": "C:\\Users\\ktc\\Documents\\GitHub\\7-31\\kadai\\kadai\\EnemyStetas.h",
-              "RelativeDocumentMoniker": "kadai\\EnemyStetas.h",
-              "ToolTip": "C:\\Users\\ktc\\Documents\\GitHub\\7-31\\kadai\\kadai\\EnemyStetas.h",
-              "RelativeToolTip": "kadai\\EnemyStetas.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "EnemyHP.h",
+              "DocumentMoniker": "C:\\Users\\tebas\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Unity\\7-31\\kadai\\kadai\\EnemyHP.h",
+              "RelativeDocumentMoniker": "kadai\\EnemyHP.h",
+              "ToolTip": "C:\\Users\\tebas\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Unity\\7-31\\kadai\\kadai\\EnemyHP.h",
+              "RelativeToolTip": "kadai\\EnemyHP.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-07-25T14:03:35.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-27T13:38:51.388Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "EnemyHP.h",
-              "DocumentMoniker": "C:\\Users\\ktc\\Documents\\GitHub\\7-31\\kadai\\kadai\\EnemyHP.h",
-              "RelativeDocumentMoniker": "kadai\\EnemyHP.h",
-              "ToolTip": "C:\\Users\\ktc\\Documents\\GitHub\\7-31\\kadai\\kadai\\EnemyHP.h",
-              "RelativeToolTip": "kadai\\EnemyHP.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-07-27T13:38:51.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "EnemyHP.cpp",
-              "DocumentMoniker": "C:\\Users\\ktc\\Documents\\GitHub\\7-31\\kadai\\kadai\\EnemyHP.cpp",
+              "DocumentMoniker": "C:\\Users\\tebas\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Unity\\7-31\\kadai\\kadai\\EnemyHP.cpp",
               "RelativeDocumentMoniker": "kadai\\EnemyHP.cpp",
-              "ToolTip": "C:\\Users\\ktc\\Documents\\GitHub\\7-31\\kadai\\kadai\\EnemyHP.cpp",
+              "ToolTip": "C:\\Users\\tebas\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Unity\\7-31\\kadai\\kadai\\EnemyHP.cpp",
               "RelativeToolTip": "kadai\\EnemyHP.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-07-31T10:23:25.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T10:23:25.63Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "kadai.cpp",
-              "DocumentMoniker": "C:\\Users\\ktc\\Documents\\GitHub\\7-31\\kadai\\kadai\\kadai.cpp",
+              "DocumentMoniker": "C:\\Users\\tebas\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Unity\\7-31\\kadai\\kadai\\kadai.cpp",
               "RelativeDocumentMoniker": "kadai\\kadai.cpp",
-              "ToolTip": "C:\\Users\\ktc\\Documents\\GitHub\\7-31\\kadai\\kadai\\kadai.cpp",
+              "ToolTip": "C:\\Users\\tebas\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Unity\\7-31\\kadai\\kadai\\kadai.cpp",
               "RelativeToolTip": "kadai\\kadai.cpp",
-              "ViewState": "AgIAAOAAAAAAAAAAAAAAAPoAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAJ4AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-07-04T04:31:18.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HP.cpp",
-              "DocumentMoniker": "C:\\Users\\ktc\\Documents\\GitHub\\7-31\\kadai\\kadai\\HP.cpp",
+              "DocumentMoniker": "C:\\Users\\tebas\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Unity\\7-31\\kadai\\kadai\\HP.cpp",
               "RelativeDocumentMoniker": "kadai\\HP.cpp",
-              "ToolTip": "C:\\Users\\ktc\\Documents\\GitHub\\7-31\\kadai\\kadai\\HP.cpp",
+              "ToolTip": "C:\\Users\\tebas\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Unity\\7-31\\kadai\\kadai\\HP.cpp",
               "RelativeToolTip": "kadai\\HP.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-07-31T10:21:22.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HP.h",
-              "DocumentMoniker": "C:\\Users\\ktc\\Documents\\GitHub\\7-31\\kadai\\kadai\\HP.h",
-              "RelativeDocumentMoniker": "kadai\\HP.h",
-              "ToolTip": "C:\\Users\\ktc\\Documents\\GitHub\\7-31\\kadai\\kadai\\HP.h",
-              "RelativeToolTip": "kadai\\HP.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-07-27T13:37:50.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T10:21:22.734Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "States.cpp",
-              "DocumentMoniker": "C:\\Users\\ktc\\Documents\\GitHub\\7-31\\kadai\\kadai\\States.cpp",
-              "RelativeDocumentMoniker": "kadai\\States.cpp",
-              "ToolTip": "C:\\Users\\ktc\\Documents\\GitHub\\7-31\\kadai\\kadai\\States.cpp",
-              "RelativeToolTip": "kadai\\States.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-07-31T10:24:52.6Z",
-              "EditorCaption": ""
+              "Title": "HP.h",
+              "DocumentMoniker": "C:\\Users\\tebas\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Unity\\7-31\\kadai\\kadai\\HP.h",
+              "RelativeDocumentMoniker": "kadai\\HP.h",
+              "ToolTip": "C:\\Users\\tebas\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Unity\\7-31\\kadai\\kadai\\HP.h",
+              "RelativeToolTip": "kadai\\HP.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-27T13:37:50.141Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Stetas.h",
-              "DocumentMoniker": "C:\\Users\\ktc\\Documents\\GitHub\\7-31\\kadai\\kadai\\Stetas.h",
+              "DocumentMoniker": "C:\\Users\\tebas\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Unity\\7-31\\kadai\\kadai\\Stetas.h",
               "RelativeDocumentMoniker": "kadai\\Stetas.h",
-              "ToolTip": "C:\\Users\\ktc\\Documents\\GitHub\\7-31\\kadai\\kadai\\Stetas.h",
+              "ToolTip": "C:\\Users\\tebas\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Unity\\7-31\\kadai\\kadai\\Stetas.h",
               "RelativeToolTip": "kadai\\Stetas.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-07-25T05:40:54.625Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemyStetas.h",
+              "DocumentMoniker": "C:\\Users\\tebas\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Unity\\7-31\\kadai\\kadai\\EnemyStetas.h",
+              "RelativeDocumentMoniker": "kadai\\EnemyStetas.h",
+              "ToolTip": "C:\\Users\\tebas\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Unity\\7-31\\kadai\\kadai\\EnemyStetas.h",
+              "RelativeToolTip": "kadai\\EnemyStetas.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-25T14:03:35.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "States.cpp",
+              "DocumentMoniker": "C:\\Users\\tebas\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Unity\\7-31\\kadai\\kadai\\States.cpp",
+              "RelativeDocumentMoniker": "kadai\\States.cpp",
+              "ToolTip": "C:\\Users\\tebas\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Unity\\7-31\\kadai\\kadai\\States.cpp",
+              "RelativeToolTip": "kadai\\States.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-31T10:24:52.6Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "__msvc_string_view.hpp",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\__msvc_string_view.hpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\__msvc_string_view.hpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\__msvc_string_view.hpp",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\__msvc_string_view.hpp",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\__msvc_string_view.hpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\__msvc_string_view.hpp",
               "ViewState": "AgIAAJ0AAAAAAAAAAAAgwK0AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-07-26T15:18:51.251Z"
