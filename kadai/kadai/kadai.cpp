@@ -3,6 +3,7 @@
 #include "EnemyStetas.h"
 #include "HP.h"
 #include "EnemyHP.h"
+#include "Player.h"
 
 using namespace std;
 
@@ -22,8 +23,10 @@ int main()
 
 	EnemyHP enemyHP(eHP);
 
-
-	PlayerParameter PP[3];
+	std::cout << "PlayerName:" << << std::endl;
+	
+	void setATK(int ATK);
+	/*PlayerParameter PP[3];
 	for (int i = 0; i < 3; ++i)
 	{
 		PP[0].name_ = "剣士";
@@ -33,7 +36,7 @@ int main()
 		PP[1].ATK_ = 35;
 		PP[2].ATK_ = 25;
 		
-	}
+	}*/
 
 	EnemyParameter EP[3];
 	for (int i = 0; i < 3; ++i)

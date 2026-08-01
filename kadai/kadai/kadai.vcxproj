@@ -126,12 +126,14 @@
     <ClCompile Include="EnemyHP.cpp" />
     <ClCompile Include="HP.cpp" />
     <ClCompile Include="kadai.cpp" />
-    <ClCompile Include="States.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="Stetas.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EnemyHP.h" />
     <ClInclude Include="EnemyStetas.h" />
     <ClInclude Include="HP.h" />
+    <ClInclude Include="Player.h" />
     <ClInclude Include="Stetas.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

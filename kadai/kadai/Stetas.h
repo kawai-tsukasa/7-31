@@ -1,13 +1,19 @@
 #pragma once
 #include <string>
 
-class PlayerParameter final
+class PlayerParameter 
 {
+protected:
+	std::string name_ ;
+	int ATK_;
 public:
-	std::string name_ = {};
-	int ATK_ = 0;
+	PlayerParameter(std::string name, int ATK) : name_(name), ATK_(ATK) {}
+	std::string getName() const;
+	int getATK() const;
 
-
-	// Ç‚ÇÎÇ§Ç∆ÇµÇΩ ÇµÇ©Çµ Ç≈Ç´ÇÒÇ©Ç¡ÇΩÅB
+	virtual void setName(const std::string& name) ;
+	virtual void setATK(int ATK);
 };
+
+
 
