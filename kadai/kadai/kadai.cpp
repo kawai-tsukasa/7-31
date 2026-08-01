@@ -57,7 +57,7 @@ int main()
 
 		std::cout << "-----------------------------" << std::endl;
 
-		std::cout << "HP:" << playerHP.get() << endl;
+		std::cout << "あなた の HP:" << playerHP.get() << endl;
 
 		std::cout << "-----------------------------" << std::endl;
 
@@ -68,7 +68,7 @@ int main()
 
 		std::cout << "-----------------------------" << std::endl;
 
-		std::cout << "HP:" << enemyHP.get() << endl;
+		std::cout << "敵 の HP:" << enemyHP.get() << endl;
 
 		std::cout << "-----------------------------" << std::endl;
 
