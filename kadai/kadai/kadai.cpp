@@ -14,11 +14,11 @@ int main()
 
 	int command;
 
-	int* pHP = new int(100);
+	int* pHP = new int(300);
 
 	PlayerHP playerHP(pHP);
 
-	int* eHP = new int(100);
+	int* eHP = new int(300);
 
 	EnemyHP enemyHP(eHP);
 
@@ -29,9 +29,9 @@ int main()
 		PP[0].name_ = "剣士";
 		PP[1].name_ = "魔法使い";
 		PP[2].name_ = "召喚士";
-		PP[0].ATK_ = 20;
-		PP[1].ATK_ = 15;
-		PP[2].ATK_ = 10;
+		PP[0].ATK_ = 40;
+		PP[1].ATK_ = 35;
+		PP[2].ATK_ = 25;
 		
 	}
 
@@ -41,9 +41,9 @@ int main()
 		EP[0].name_ = "敵剣士";
 		EP[1].name_ = "敵魔法使い";
 		EP[2].name_ = "敵召喚士";
-		EP[0].ATK_ = 20;
-		EP[1].ATK_ = 15;
-		EP[2].ATK_ = 10;
+		EP[0].ATK_ = 40;
+		EP[1].ATK_ = 35;
+		EP[2].ATK_ = 25;
 	}
 
 
