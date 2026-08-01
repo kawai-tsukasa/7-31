@@ -72,7 +72,7 @@ int main()
 
 		std::cout << "-----------------------------" << std::endl;
 
-		std::cout << "行動選択" << std::endl;
+		std::cout << "---<行動選択>---" << std::endl;
 
 		std::cout << "1.剣士    で 攻撃！" << "2.剣士     で 防御！" <<  std::endl;
 		std::cout << "3.魔法使いで 攻撃！" << "4.魔法使い で 防御！" <<  std::endl;
@@ -112,7 +112,7 @@ int main()
 
 		std::cout << "-----------------------------" << std::endl;
 		
-		std::cout << "敵の行動" << std::endl;
+		std::cout << "---<敵の行動>---" << std::endl;
 
 		int enemyCommand = rand() % 6 + 1;
 

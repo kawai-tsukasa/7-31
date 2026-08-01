@@ -59,7 +59,7 @@
               "RelativeDocumentMoniker": "kadai\\kadai.cpp",
               "ToolTip": "D:\\\u6CB3\u5408\u675F\u5016C\u002B\u002B\\7-31\\kadai\\kadai\\kadai.cpp",
               "RelativeToolTip": "kadai\\kadai.cpp",
-              "ViewState": "AgIAACUBAAAAAAAAAAAAAG0AAAADAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAKoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-07-04T04:31:18.279Z",
               "EditorCaption": ""
@@ -84,8 +84,7 @@
               "RelativeToolTip": "kadai\\EnemyHP.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-07-27T13:38:51.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-27T13:38:51.388Z"
             },
             {
               "$type": "Document",
@@ -97,8 +96,7 @@
               "RelativeToolTip": "kadai\\EnemyHP.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-07-31T10:23:25.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T10:23:25.63Z"
             },
             {
               "$type": "Document",
@@ -122,8 +120,7 @@
               "RelativeToolTip": "kadai\\HP.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-07-27T13:37:50.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-27T13:37:50.141Z"
             },
             {
               "$type": "Document",
@@ -135,8 +132,7 @@
               "RelativeToolTip": "kadai\\Stetas.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-07-25T05:40:54.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-25T05:40:54.625Z"
             },
             {
               "$type": "Document",
@@ -148,8 +144,7 @@
               "RelativeToolTip": "kadai\\EnemyStetas.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-07-25T14:03:35.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-25T14:03:35.736Z"
             },
             {
               "$type": "Document",
@@ -161,8 +156,7 @@
               "RelativeToolTip": "kadai\\States.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-07-31T10:24:52.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T10:24:52.6Z"
             }
           ]
         }
